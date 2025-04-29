@@ -5,7 +5,7 @@ const Home = () => {
   const cards = [
     {
       id: 1,
-      image: 'https://www.pinklay.com/cdn/shop/files/Vertical_2_800x.jpg?v=1744288512',
+      image: 'https://www.pinklay.com/cdn/shop/files/Vertical_2_800x.jpg?v=174428851',
       colSpan: 'md:col-span-1',
       rowSpan: 'row-span-2',
     },

@@ -17,8 +17,8 @@ function Nav() {
     };
 
     return (
-        <div>
-            <nav className='border-b-2 p-4 flex justify-between items-center'>
+        <div className='z-50'>
+            <nav className='border-b-1 p-4 flex justify-between items-center'>
                 <div className="text-white text-2xl font-bold">
                     <img src="https://www.pinklay.com/cdn/shop/files/pinklay_logo_buy_76d29792-e34f-4523-a9ec-0e6a78828bb8_170x@2x.png?v=1689667588" alt="" />
                 </div>
